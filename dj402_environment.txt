@@ -1,0 +1,9 @@
+Django 4.0.2
+python 3.10.1
+pip 22.0.3
+Pillow 9.0.1
+django-crispy-forms 1.14.0
+
+****
+bootstrap 4.6.1
+fontawesome
